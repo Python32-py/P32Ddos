@@ -1,2 +1,3 @@
-# P32Ddos
+#Python32.
+
 DDOSER
